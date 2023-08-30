@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431261975362",
+    "firebase_url": "https://mid-morning-shopping-app-default-rtdb.firebaseio.com",
+    "project_id": "mid-morning-shopping-app",
+    "storage_bucket": "mid-morning-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431261975362:android:db811efb00f53c2dd63edb",
+        "android_client_info": {
+          "package_name": "com.example.navigationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431261975362-i7h48le15tsdekrd534ekhu2regaf0ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7urG1UglH8Xu9wc9h4wwHVcS1_qOOBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431261975362-i7h48le15tsdekrd534ekhu2regaf0ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
